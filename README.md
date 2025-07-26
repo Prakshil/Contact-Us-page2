@@ -1,4 +1,4 @@
-# Contact Us Page
+# Minimal Contact Us Page
 
 A modern, responsive contact page built with Bootstrap 5 featuring a clean split-layout design with service cards.
 
